@@ -1,5 +1,5 @@
 from datetime import datetime
-import httplib
+import http.client as httplib
 import json
 import sqlite3
 import time
